@@ -5,6 +5,6 @@ header {
 .jumbotron{
   display: flex;
   background-image:url(https://imageric.s3.eu-west-1.amazonaws.com/photos/hires/list-free-stock-photo-sky-clouds-landscape-outdoors-scenic-mountain-travel-tree-grass-rural.jpg);
-  background-size: auto 100%;
+  background-size: cover;
   height: 700px;
 }
