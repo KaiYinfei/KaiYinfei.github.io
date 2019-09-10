@@ -3,6 +3,11 @@ header{
   font-family: 'Cinzel', serif;
 }
 
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
 #coatOfArms{
   height: 60px;
   width: 60px;
