@@ -9,7 +9,6 @@ header{
 header nav {
   display: flex;
   justify-content: flex-end;
-  text-size: 30px;
 }
 
 #coatOfArms{
