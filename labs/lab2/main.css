@@ -1,4 +1,6 @@
 header{
+  padding-left: 0px;
+  padding-right: 0px;
   background-color: #555555;
   font-family: 'Cinzel', serif;
   padding-top: 25px;
@@ -10,8 +12,8 @@ header nav {
 }
 
 #coatOfArms{
-  height: 50px;
-  width: 50px;
+  height: 40px;
+  width: 40px;
 }
 
 .jumbotron{
