@@ -5,6 +5,7 @@ header{
   font-family: 'Cinzel', serif;
   padding-top: 25px;
   width: 100%;
+  text-align: center;
 }
 
 header h3 {
@@ -27,4 +28,8 @@ header h3 {
 .jumbotron h3{
   background-color: #555555;
   color: #fff;
+}
+
+body{
+  background-color: #222222;
 }
