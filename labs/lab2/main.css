@@ -6,10 +6,9 @@ header{
   padding-top: 25px;
 }
 
-header nav {
+header h3 {
   display: flex;
   justify-content: flex-end;
-  test-size: 300px;
 }
 
 #coatOfArms{
