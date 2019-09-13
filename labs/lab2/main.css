@@ -30,20 +30,27 @@ header h1 {
   width: 1500px;
 }
 
-.jumbotron h3{
-  background-color: #555555;
-  color: #fff;
-}
-
 #selection{
   color: #AAAAAA;
   font-family: 'Cinzel', serif;
 }
-#commander{
-  background-image:url(https://publicdomainvectors.org/tn_img/warszawianka-Koszalin-coat-of-arms.png);
-  height: 300px;
+.container li{
+  height: 100px;
   color: white;
+  font-size: 60px;
 }
+#commander{
+  background-image:url(https://publicdomainvectors.org/tn_img/KnightHorseback4.png);
+}
+
+#crest{
+  height: 100px;
+  margin-top: 20px;
+  padding-left: 20px;
+  background-size: 100%;
+  background-position: center;
+}
+
 html body{
   background-color: #222222;
   margin: 0px;
